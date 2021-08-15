@@ -1,0 +1,4 @@
+-IC:\Users\carlo\OneDrive\Documents\section4\practrice-1
+-std=c++17
+-target
+
